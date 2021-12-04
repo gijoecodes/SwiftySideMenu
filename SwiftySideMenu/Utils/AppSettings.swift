@@ -28,6 +28,6 @@
 
 import Foundation
 
-let addMenuBackground = false
+let addMenuBackground = true
 let resizeMenuController = true
-let resizeMenuContainer = false
+let resizeMenuContainer = true

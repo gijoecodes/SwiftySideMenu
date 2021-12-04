@@ -38,7 +38,7 @@ struct AppImages {
     static let menuOptionAbout      = UIImage(systemName: "info.circle", withConfiguration: UIImage.SymbolConfiguration(weight: .light))
     static let menuOptionSupport    = UIImage(systemName: "lifepreserver", withConfiguration: UIImage.SymbolConfiguration(weight: .light))
     
-    static let menuBackground       = UIImage(named: "menuBackground")
+    static let menuBackground       = UIImage(named: "pexels-maksim-goncharenok-4348635")
     
 }
 
